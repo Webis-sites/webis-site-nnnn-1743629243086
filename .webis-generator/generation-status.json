@@ -1,11 +1,78 @@
 {
-  "timestamp": "2025-04-02T21:27:23.087Z",
+  "timestamp": "2025-04-02T21:27:58.591Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 11,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section showcasing the gym with a powerful headline and call to action"
+    },
+    {
+      "name": "AboutUsSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the gym's experience, expertise and values"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Detailed overview of the fitness services offered by the gym"
+    },
+    {
+      "name": "FacilitiesGallery",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of the gym's facilities, equipment and environment"
+    },
+    {
+      "name": "TrainersSection",
+      "type": "team",
+      "status": "pending",
+      "description": "Showcase of the professional trainers and staff at the gym"
+    },
+    {
+      "name": "MembershipPlans",
+      "type": "pricing",
+      "status": "pending",
+      "description": "Overview of different membership options and pricing plans"
+    },
+    {
+      "name": "SuccessStories",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Portfolio showcasing client transformations and success stories"
+    },
+    {
+      "name": "ClassSchedule",
+      "type": "schedule",
+      "status": "pending",
+      "description": "Weekly schedule of fitness classes and activities"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "pending",
+      "description": "Map showing the gym's location with contact information"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and form for inquiries"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with essential links and information"
+    }
+  ],
   "repoName": ""
 }
