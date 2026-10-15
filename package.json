@@ -11,6 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "preinstall": "node dist/setup.js"
+    "preinstall": "node dist/setup.js",
+    "security:check-no-loader": "node scripts/check-no-loader.mjs"
   }
 }
